@@ -27,14 +27,17 @@ A text editor of your choice
 
 Clone the repository to your local machine
 
-git clone https://github.com/[your_username]/todo-crud-app.git
+`git clone https://github.com/[your_username]/todo-crud-app.git`
 
-Navigate to the project folder and install the dependencies
+Navigate to the project folder and install the dependencies.
 
+```
 cd todo-crud-app
 npm install
 Start the development server
 npm start
+```
+
 The app should now be running on http://localhost:3000/
 
 ## Built With
